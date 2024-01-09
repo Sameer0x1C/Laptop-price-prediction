@@ -4,14 +4,11 @@ This project aims to predict the price of laptops based on various features. It 
 
 
 ## Output Screenshots
-1. **Home Page**
-    ![Home Page](outputs/index.png)
+1. **Input Data**
+    ![Input Data](lapinput.png)
 
-2. **Insert Data**
-    ![Registration Form](outputs/insert.png)
-
-3. **Update Data**
-    ![Update Form](outputs/update.png)
+2. **Output Data**
+    ![Output data](laptopoutput.png)
 
 
 ## Table of Contents
